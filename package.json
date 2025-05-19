@@ -1,0 +1,15 @@
+{
+  "name": "cnab-cli",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "type": "module",
+  "author": "Isaddora Freitas",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "yargs": "^17.7.2"
+  }
+}
