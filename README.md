@@ -2,6 +2,10 @@
 
 Uma CLI com serviços com manipulação de dados baseado em arquivos CNAB.
 
+- Leitura de arquivo CNAB
+- Busca por segmentos
+- Pesquisa por nome da empresa
+- Exportação para JSON
 
 
 ## Instalação
